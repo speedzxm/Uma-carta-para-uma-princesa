@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Minha Princesa ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to top, #ff512f, #f09819);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.6;
+}
+
+.gallery img {
+    width: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+.music {
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    opacity: 0.8;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Minha Princesa 👑🧡</h1>
+
+<p>
+Quatro meses ao seu lado foram suficientes para transformar dias comuns
+em momentos inesquecíveis.  
+No começo era carinho… depois virou saudade…  
+e agora, sem eu perceber, está virando amor.
+
+Você é meu pôr do sol favorito,
+a calmaria depois de um dia difícil,
+a pessoa que faz meu coração bater diferente.
+
+Eu estou começando a te amar,
+e isso é a coisa mais bonita que já senti.
+
+Que nossa aliança não seja só uma música,
+mas uma promessa de continuarmos escolhendo um ao outro,
+todos os dias. 💍🧡
+</p>
+
+<div class="gallery">
+    <img src="foto1.jpg">
+    <img src="foto2.jpg">
+    <img src="foto3.jpg">
+    <img src="foto4.jpg">
+</div>
+
+<div class="music">
+    <h2>Nossa Música 🎶</h2>
+    <iframe width="300" height="170"
+        src="https://www.youtube.com/embed/3JiMr-HgHJ8"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<footer>
+Feito com amor 💖
+</footer>
+
+</div>
+
+</body>
+</html>
